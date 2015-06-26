@@ -1,3 +1,4 @@
-# firstproject
-This is my first pyhon project.
-Write by xiaoyao.li,2015.05.29
+This A MarkUp tool, which turn a cure text to a HTML text.
+Writed by xiaoyao.li.
+Date: 20150625
+Usage: python mark.py < test_input.txt > test_input.html
